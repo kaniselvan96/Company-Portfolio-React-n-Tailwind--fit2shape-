@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "./static/css/main.5c339f7c.css",
+    "main.js": "./static/js/main.ec131509.js",
+    "static/media/itSolution.JPG": "./static/media/itSolution.aa740add53d26287aca2.JPG",
+    "static/media/CovidTestKit7Eleven.png": "./static/media/CovidTestKit7Eleven.5d09658251e333ea71a8.png",
+    "static/media/RTDSarawak.png": "./static/media/RTDSarawak.bb4ce288f6b6f0bb3741.png",
+    "static/media/CovidTestKit.png": "./static/media/CovidTestKit.a738feb55761c6544ffc.png",
+    "static/media/bulkPurchasing.png": "./static/media/bulkPurchasing.ae84b0725c8d2985c7f4.png",
+    "static/media/yayasan_petronas.png": "./static/media/yayasan_petronas.619c3fc79f6b25f3beae.png",
+    "static/media/philip.png": "./static/media/philip.67209ba12004fae3b669.png",
+    "static/media/topGlove.png": "./static/media/topGlove.da8f2f51e77120e71263.png",
+    "static/media/BumiAgents_Pharmacies.JPG": "./static/media/BumiAgents_Pharmacies.e2e26fccca417fe28800.JPG",
+    "static/media/neutrovis.png": "./static/media/neutrovis.ff031df3689d69d585f9.png",
+    "static/media/SarawakDentalClinics.JPG": "./static/media/SarawakDentalClinics.f460eb16e18bd610efe6.JPG",
+    "static/media/LabEquiments.JPG": "./static/media/LabEquiments.3966c12dae7ed87c92de.JPG",
+    "static/media/logisticOptions.JPG": "./static/media/logisticOptions.12035cc212f6737aad96.JPG",
+    "static/media/img_contact.png": "./static/media/img_contact.00b64982495406fa90d8.png",
+    "static/media/medipro.png": "./static/media/medipro.8f61cf01585aeca3c034.png",
+    "static/media/longsee.png": "./static/media/longsee.5e796ece9bc8859dce30.png",
+    "static/media/kossan.png": "./static/media/kossan.bab577bbe25289032425.png",
+    "static/media/noxxa.PNG": "./static/media/noxxa.1c685cfbae9621d44005.PNG",
+    "static/media/jovian.png": "./static/media/jovian.4b72140eda79799fbd82.png",
+    "static/media/juschek.png": "./static/media/juschek.b9da3ae1d47177c76c35.png",
+    "static/media/olympus.PNG": "./static/media/olympus.763e05b9c797236a3dee.PNG",
+    "static/media/Cranberry.png": "./static/media/Cranberry.17c8c7105af9ce661209.png",
+    "static/media/newgene.png": "./static/media/newgene.2590092f648a521bf6e0.png",
+    "static/media/tajima.JPG": "./static/media/tajima.966fc036e8c3fbf051d4.JPG",
+    "static/media/salixium.PNG": "./static/media/salixium.9e3203473cade8e21dd4.PNG",
+    "index.html": "./index.html",
+    "main.5c339f7c.css.map": "./static/css/main.5c339f7c.css.map",
+    "main.ec131509.js.map": "./static/js/main.ec131509.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c339f7c.css",
+    "static/js/main.ec131509.js"
+  ]
+}
