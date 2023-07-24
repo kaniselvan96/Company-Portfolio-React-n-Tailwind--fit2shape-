@@ -1,5 +1,3 @@
-
-
 //buttons //contactTitle
 export const getInTouch = "Get in Touch";
 export const sendMessage = "Send Message";
@@ -59,7 +57,7 @@ export const navbarData = [
 ];
 
 //heroPage
-export const mainTitle = "Consumables Supplier";
+export const mainTitle = "Consumables Suppl";
 export const subTitle = "We supply for";
 export const subTitle_array = [
   "Medical",

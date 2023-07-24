@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.5c339f7c.css",
-    "main.js": "./static/js/main.ec131509.js",
+    "main.js": "./static/js/main.6a8bcf6c.js",
     "static/media/itSolution.JPG": "./static/media/itSolution.aa740add53d26287aca2.JPG",
     "static/media/CovidTestKit7Eleven.png": "./static/media/CovidTestKit7Eleven.5d09658251e333ea71a8.png",
     "static/media/RTDSarawak.png": "./static/media/RTDSarawak.bb4ce288f6b6f0bb3741.png",
@@ -29,10 +29,10 @@
     "static/media/salixium.PNG": "./static/media/salixium.9e3203473cade8e21dd4.PNG",
     "index.html": "./index.html",
     "main.5c339f7c.css.map": "./static/css/main.5c339f7c.css.map",
-    "main.ec131509.js.map": "./static/js/main.ec131509.js.map"
+    "main.6a8bcf6c.js.map": "./static/js/main.6a8bcf6c.js.map"
   },
   "entrypoints": [
     "static/css/main.5c339f7c.css",
-    "static/js/main.ec131509.js"
+    "static/js/main.6a8bcf6c.js"
   ]
 }
